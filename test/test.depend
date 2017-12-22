@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513924910 source:c:\users\angtr\desktop\test\main.cpp
+	<windows.h>
+	<GL/glew.h>
+	<GL/glfw3.h>
+	<glm/glm.hpp>
+	<cassert>
+	<iostream>
+	<stdexcept>
+
